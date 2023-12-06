@@ -1,0 +1,1640 @@
+load all deepcell nuc image
+load tissue retention mask
+(9030, 15053)
+(8530, 15053)
+mask deepcell nuc image
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+(8530, 15053)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.63user 18.34system 0:29.93elapsed 83%CPU (0avgtext+0avgdata 6089688maxresident)k
+881246inputs+32outputs (1254287major+2575047minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8973, 11977)
+(8473, 11977)
+mask deepcell nuc image
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+(8473, 11977)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+5.02user 14.81system 0:24.04elapsed 82%CPU (0avgtext+0avgdata 4827152maxresident)k
+742350inputs+26outputs (991365major+2040203minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(11501, 8946)
+(11001, 8946)
+mask deepcell nuc image
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+(11001, 8946)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.26user 13.85system 0:23.36elapsed 86%CPU (0avgtext+0avgdata 4683308maxresident)k
+604207inputs+23outputs (961480major+1979130minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8477, 10217)
+(7977, 10217)
+mask deepcell nuc image
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+(7977, 10217)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.74user 11.48system 0:18.83elapsed 86%CPU (0avgtext+0avgdata 3891000maxresident)k
+477144inputs+19outputs (796230major+1641811minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(1709, 2201)
+(1209, 2201)
+mask deepcell nuc image
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+(1209, 2201)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.32user 0.45system 0:01.17elapsed 66%CPU (0avgtext+0avgdata 196888maxresident)k
+64257inputs+1outputs (26016major+42370minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(1557, 1249)
+(1057, 1249)
+mask deepcell nuc image
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+(1057, 1249)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.18user 0.26system 0:00.78elapsed 56%CPU (0avgtext+0avgdata 133952maxresident)k
+33510inputs+1outputs (12917major+26592minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(5941, 2737)
+(5441, 2737)
+mask deepcell nuc image
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+(5441, 2737)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.92user 2.17system 0:03.74elapsed 82%CPU (0avgtext+0avgdata 768852maxresident)k
+410356inputs+4outputs (145499major+316882minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(4109, 2409)
+(3609, 2409)
+mask deepcell nuc image
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+(3609, 2409)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.66user 1.48system 0:02.79elapsed 77%CPU (0avgtext+0avgdata 478816maxresident)k
+224884inputs+2outputs (84960major+194055minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8133, 8849)
+(7633, 8849)
+mask deepcell nuc image
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+(7633, 8849)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.43user 9.41system 0:16.38elapsed 84%CPU (0avgtext+0avgdata 3237352maxresident)k
+616407inputs+17outputs (659857major+1365059minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8573, 10761)
+(8073, 10761)
+mask deepcell nuc image
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+(8073, 10761)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.67user 14.28system 0:21.64elapsed 87%CPU (0avgtext+0avgdata 4140124maxresident)k
+531579inputs+20outputs (848672major+1768528minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(5725, 9257)
+(5225, 9257)
+mask deepcell nuc image
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+(5225, 9257)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.61user 8.68system 0:13.39elapsed 84%CPU (0avgtext+0avgdata 2337976maxresident)k
+468242inputs+13outputs (472532major+983860minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6829, 4729)
+(6329, 4729)
+mask deepcell nuc image
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+(6329, 4729)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.97user 5.62system 0:08.69elapsed 87%CPU (0avgtext+0avgdata 1473772maxresident)k
+519444inputs+8outputs (292410major+616536minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(4077, 3273)
+(3577, 3273)
+mask deepcell nuc image
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+(3577, 3273)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.70user 2.11system 0:03.45elapsed 81%CPU (0avgtext+0avgdata 620028maxresident)k
+321781inputs+3outputs (114396major+254096minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(11373, 6537)
+(10873, 6537)
+mask deepcell nuc image
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+(10873, 6537)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.64user 11.98system 0:19.01elapsed 87%CPU (0avgtext+0avgdata 3400952maxresident)k
+335354inputs+18outputs (694334major+1490365minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(13437, 7641)
+(12937, 7641)
+mask deepcell nuc image
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+(12937, 7641)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+5.83user 14.40system 0:23.04elapsed 87%CPU (0avgtext+0avgdata 4697636maxresident)k
+458749inputs+24outputs (965735major+2106188minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(13821, 7593)
+(13321, 7593)
+mask deepcell nuc image
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+(13321, 7593)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.51user 11.65system 0:18.51elapsed 98%CPU (0avgtext+0avgdata 4810980maxresident)k
+41980inputs+26outputs (988228major+2038830minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(7629, 5833)
+(7129, 5833)
+mask deepcell nuc image
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+(7129, 5833)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.78user 6.86system 0:09.82elapsed 98%CPU (0avgtext+0avgdata 2020140maxresident)k
+1020inputs+9outputs (406253major+850341minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(12349, 11417)
+(11849, 11417)
+mask deepcell nuc image
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+(11849, 11417)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+7.46user 15.75system 0:23.46elapsed 98%CPU (0avgtext+0avgdata 6412544maxresident)k
+2833inputs+35outputs (1321592major+2717692minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(7429, 5497)
+(6929, 5497)
+mask deepcell nuc image
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+(6929, 5497)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.14user 5.45system 0:07.80elapsed 97%CPU (0avgtext+0avgdata 1856640maxresident)k
+977inputs+9outputs (372114major+779520minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(9109, 8361)
+(8609, 8361)
+mask deepcell nuc image
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+(8609, 8361)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.22user 9.85system 0:14.19elapsed 99%CPU (0avgtext+0avgdata 3445536maxresident)k
+1671inputs+19outputs (703218major+1453047minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(10157, 8793)
+(9657, 8793)
+mask deepcell nuc image
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+(9657, 8793)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.61user 10.60system 0:15.41elapsed 98%CPU (0avgtext+0avgdata 4051832maxresident)k
+1844inputs+21outputs (829552major+1710303minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6989, 6825)
+(6489, 6825)
+mask deepcell nuc image
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+(6489, 6825)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.31user 5.61system 0:08.13elapsed 97%CPU (0avgtext+0avgdata 2146864maxresident)k
+1004inputs+11outputs (432641major+905871minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(12255, 13260)
+(11755, 13260)
+mask deepcell nuc image
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+(11755, 13260)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+8.53user 16.28system 0:24.99elapsed 99%CPU (0avgtext+0avgdata 7376080maxresident)k
+3133inputs+38outputs (1522751major+3126653minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(5355, 4261)
+(4855, 4261)
+mask deepcell nuc image
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+(4855, 4261)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.24user 2.87system 0:04.27elapsed 96%CPU (0avgtext+0avgdata 1040824maxresident)k
+535inputs+5outputs (202117major+432731minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6965, 5808)
+(6465, 5808)
+mask deepcell nuc image
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+(6465, 5808)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.16user 5.79system 0:08.11elapsed 98%CPU (0avgtext+0avgdata 1830448maxresident)k
+917inputs+9outputs (366859major+768664minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(7668, 7181)
+(7168, 7181)
+mask deepcell nuc image
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+(7168, 7181)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.37user 6.16system 0:09.70elapsed 98%CPU (0avgtext+0avgdata 2483420maxresident)k
+1175inputs+15outputs (502892major+1053740minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(10957, 10729)
+(10457, 10729)
+mask deepcell nuc image
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+(10457, 10729)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.86user 17.66system 0:24.82elapsed 98%CPU (0avgtext+0avgdata 5329412maxresident)k
+2500inputs+29outputs (1096078major+2257008minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6573, 12537)
+(6073, 12537)
+mask deepcell nuc image
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+(6073, 12537)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.42user 10.63system 0:15.34elapsed 98%CPU (0avgtext+0avgdata 3639796maxresident)k
+1756inputs+18outputs (743862major+1536210minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(10941, 12857)
+(10441, 12857)
+mask deepcell nuc image
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+(10441, 12857)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+7.18user 15.96system 0:23.34elapsed 99%CPU (0avgtext+0avgdata 6361768maxresident)k
+2863inputs+35outputs (1311375major+2697562minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(10109, 12265)
+(9609, 12265)
+mask deepcell nuc image
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+(9609, 12265)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.91user 14.07system 0:21.29elapsed 98%CPU (0avgtext+0avgdata 5595196maxresident)k
+2560inputs+29outputs (1151409major+2372201minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(12333, 14665)
+(11833, 14665)
+mask deepcell nuc image
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+(11833, 14665)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+8.46user 20.82system 0:29.52elapsed 99%CPU (0avgtext+0avgdata 8205252maxresident)k
+3680inputs+44outputs (1695223major+3477906minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(16477, 9657)
+(15977, 9657)
+mask deepcell nuc image
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+(15977, 9657)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+9.34user 21.02system 0:30.50elapsed 99%CPU (0avgtext+0avgdata 7303096maxresident)k
+4165inputs+39outputs (1507339major+3088467minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(9796, 7257)
+(9296, 7257)
+mask deepcell nuc image
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+(9296, 7257)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.85user 9.23system 0:13.28elapsed 98%CPU (0avgtext+0avgdata 3233704maxresident)k
+1559inputs+18outputs (659059major+1362675minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6464, 18285)
+(5964, 18285)
+mask deepcell nuc image
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+(5964, 18285)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.59user 14.11system 0:20.81elapsed 99%CPU (0avgtext+0avgdata 5182888maxresident)k
+2235inputs+25outputs (1065314major+2198119minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(7104, 7603)
+(6604, 7603)
+mask deepcell nuc image
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+(6604, 7603)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.95user 6.01system 0:09.16elapsed 97%CPU (0avgtext+0avgdata 2424956maxresident)k
+1078inputs+13outputs (490510major+1023607minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8890, 7113)
+(8390, 7113)
+mask deepcell nuc image
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+(8390, 7113)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.88user 7.36system 0:11.46elapsed 98%CPU (0avgtext+0avgdata 2869156maxresident)k
+1378inputs+14outputs (583053major+1209367minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8292, 6888)
+(7792, 6888)
+mask deepcell nuc image
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+(7792, 6888)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.43user 7.34system 0:10.93elapsed 98%CPU (0avgtext+0avgdata 2586212maxresident)k
+1250inputs+13outputs (524355major+1088568minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(8061, 6041)
+(7561, 6041)
+mask deepcell nuc image
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+(7561, 6041)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.97user 6.04system 0:09.14elapsed 98%CPU (0avgtext+0avgdata 2212112maxresident)k
+1082inputs+11outputs (446208major+941188minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(17181, 8793)
+(16681, 8793)
+mask deepcell nuc image
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+(16681, 8793)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+8.05user 19.90system 0:27.99elapsed 99%CPU (0avgtext+0avgdata 6945604maxresident)k
+561inputs+37outputs (1432813major+2944266minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(6877, 5945)
+(6377, 5945)
+mask deepcell nuc image
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+(6377, 5945)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.15user 5.10system 0:07.25elapsed 99%CPU (0avgtext+0avgdata 1848176maxresident)k
+194inputs+9outputs (370364major+775960minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+(14668, 16041)
+(14168, 16041)
+mask deepcell nuc image
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+(14168, 16041)
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+12.79user 22.67system 0:35.50elapsed 99%CPU (0avgtext+0avgdata 10723892maxresident)k
+267inputs+56outputs (2189major+4680119minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+5.85user 15.89system 0:22.01elapsed 98%CPU (0avgtext+0avgdata 6090360maxresident)k
+2932inputs+32outputs (1254026major+2571948minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.55user 14.18system 0:18.78elapsed 99%CPU (0avgtext+0avgdata 4828352maxresident)k
+1404inputs+25outputs (991113major+2037626minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.68user 11.73system 0:16.42elapsed 99%CPU (0avgtext+0avgdata 4684636maxresident)k
+272inputs+23outputs (961209major+1984466minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.22user 11.43system 0:15.67elapsed 99%CPU (0avgtext+0avgdata 3891644maxresident)k
+193inputs+18outputs (796001major+1639894minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.25user 0.23system 0:00.49elapsed 99%CPU (0avgtext+0avgdata 197040maxresident)k
+193inputs+1outputs (25999major+42367minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.14user 0.14system 0:00.29elapsed 99%CPU (0avgtext+0avgdata 134236maxresident)k
+193inputs+1outputs (12906major+26585minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.82user 1.55system 0:02.38elapsed 99%CPU (0avgtext+0avgdata 768876maxresident)k
+193inputs+3outputs (145463major+316429minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.47user 0.93system 0:01.40elapsed 100%CPU (0avgtext+0avgdata 478696maxresident)k
+193inputs+2outputs (84928major+193187minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.08user 8.47system 0:12.56elapsed 99%CPU (0avgtext+0avgdata 3237376maxresident)k
+193inputs+16outputs (659702major+1368550minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.83user 10.22system 0:14.07elapsed 99%CPU (0avgtext+0avgdata 4142712maxresident)k
+193inputs+20outputs (848216major+1753989minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.94user 5.79system 0:07.74elapsed 99%CPU (0avgtext+0avgdata 2339072maxresident)k
+193inputs+13outputs (472100major+990050minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.79user 4.79system 0:06.58elapsed 99%CPU (0avgtext+0avgdata 1473868maxresident)k
+193inputs+7outputs (292181major+615689minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+0.70user 1.48system 0:02.19elapsed 99%CPU (0avgtext+0avgdata 620012maxresident)k
+441inputs+3outputs (114289major+253012minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.06user 9.22system 0:13.29elapsed 99%CPU (0avgtext+0avgdata 3403368maxresident)k
+193inputs+17outputs (693736major+1433310minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.33user 12.74system 0:17.10elapsed 99%CPU (0avgtext+0avgdata 4703620maxresident)k
+193inputs+24outputs (965145major+1991578minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+4.89user 12.94system 0:17.86elapsed 99%CPU (0avgtext+0avgdata 4812096maxresident)k
+225inputs+26outputs (987763major+2037053minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.59user 5.16system 0:06.76elapsed 99%CPU (0avgtext+0avgdata 2020196maxresident)k
+193inputs+9outputs (405910major+849926minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.51user 19.14system 0:25.68elapsed 99%CPU (0avgtext+0avgdata 6412020maxresident)k
+193inputs+35outputs (1320354major+2708930minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.81user 4.73system 0:06.55elapsed 99%CPU (0avgtext+0avgdata 1856632maxresident)k
+449inputs+9outputs (371314major+778959minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.76user 9.40system 0:13.17elapsed 99%CPU (0avgtext+0avgdata 3445548maxresident)k
+193inputs+18outputs (700099major+1451219minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.28user 11.58system 0:14.87elapsed 99%CPU (0avgtext+0avgdata 4051960maxresident)k
+193inputs+21outputs (827717major+1710370minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.17user 5.24system 0:07.43elapsed 99%CPU (0avgtext+0avgdata 2146760maxresident)k
+193inputs+11outputs (432297major+909768minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.62user 22.44system 0:29.11elapsed 99%CPU (0avgtext+0avgdata 7376104maxresident)k
+193inputs+38outputs (1521588major+3124828minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.04user 2.24system 0:03.29elapsed 99%CPU (0avgtext+0avgdata 1040888maxresident)k
+201inputs+5outputs (202049major+431883minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.94user 5.31system 0:07.25elapsed 99%CPU (0avgtext+0avgdata 1830416maxresident)k
+193inputs+9outputs (366716major+767862minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.75user 6.59system 0:09.35elapsed 99%CPU (0avgtext+0avgdata 2483516maxresident)k
+193inputs+14outputs (502727major+1046197minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+5.31user 14.00system 0:19.34elapsed 99%CPU (0avgtext+0avgdata 5330400maxresident)k
+193inputs+29outputs (1095591major+2257232minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.87user 10.01system 0:13.89elapsed 99%CPU (0avgtext+0avgdata 3639084maxresident)k
+193inputs+17outputs (743309major+1544385minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.44user 21.88system 0:28.34elapsed 99%CPU (0avgtext+0avgdata 6362084maxresident)k
+193inputs+34outputs (1310475major+2703419minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+6.35user 15.21system 0:21.59elapsed 99%CPU (0avgtext+0avgdata 5594348maxresident)k
+193inputs+28outputs (1054820major+2374738minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+8.05user 19.09system 0:27.16elapsed 99%CPU (0avgtext+0avgdata 8205132maxresident)k
+193inputs+44outputs (339024major+3553370minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+9.38user 21.51system 0:30.91elapsed 99%CPU (0avgtext+0avgdata 7302428maxresident)k
+193inputs+38outputs (1506786major+3088097minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.06user 8.94system 0:12.01elapsed 99%CPU (0avgtext+0avgdata 3233728maxresident)k
+193inputs+18outputs (658688major+1361320minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+5.70user 13.03system 0:18.75elapsed 99%CPU (0avgtext+0avgdata 5180976maxresident)k
+193inputs+24outputs (1019016major+2199280minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.71user 5.42system 0:08.14elapsed 99%CPU (0avgtext+0avgdata 2424672maxresident)k
+193inputs+12outputs (410707major+1026757minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.47user 6.39system 0:09.87elapsed 99%CPU (0avgtext+0avgdata 2869404maxresident)k
+193inputs+14outputs (485477major+1219800minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+3.01user 6.66system 0:09.68elapsed 99%CPU (0avgtext+0avgdata 2586648maxresident)k
+209inputs+12outputs (524115major+1094267minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+2.36user 5.81system 0:08.18elapsed 99%CPU (0avgtext+0avgdata 2212168maxresident)k
+217inputs+10outputs (446061major+935035minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+7.21user 21.53system 0:28.79elapsed 99%CPU (0avgtext+0avgdata 6945892maxresident)k
+217inputs+36outputs (1398841major+2990435minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+1.85user 5.24system 0:07.10elapsed 99%CPU (0avgtext+0avgdata 1848140maxresident)k
+193inputs+9outputs (370260major+775099minor)pagefaults 0swaps
+load all deepcell nuc image
+load tissue retention mask
+mask deepcell nuc image
+dice,iou on idx:1
+dice,iou on idx:2
+dice,iou on idx:3
+dice,iou on idx:4
+dice,iou on idx:5
+dice,iou on idx:6
+dice,iou on idx:7
+dice,iou on idx:8
+dice,iou on idx:9
+10.91user 22.32system 0:33.29elapsed 99%CPU (0avgtext+0avgdata 10723856maxresident)k
+634inputs+55outputs (177425major+4664127minor)pagefaults 0swaps

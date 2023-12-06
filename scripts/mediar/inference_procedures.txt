@@ -1,0 +1,34 @@
+Notes:
+root directory is ./MeEDIAR-clean/CellSeg/
+
+1. Generate data_path mapping jsons: (already done for some data)
+	python ./generate_mapping.py --root=./Datasets/
+
+
+all config files in ./config/
+
+2. Train script: 
+For example
+	python main.py --config_path=./config/step1_pretraining/phase1.json    
+	
+3. Prediction/Inference
+	The weights are downloaded from paper in ./Weights/finetuned
+
+	base model, no test time segmentation, see prediction in official tuning set 
+	python predict.py --config_path=./config/step3_prediction/base_prediction_modified.json
+	
+	
+	for this work we only use base prediction model
+	
+4 Need to inference on new datasets
+
+	create folder in ./Datasets/folder/xx.png
+	
+	(better to cut image into 512x512 shape)
+	
+	create config json files (similar to ./config/step3_prediction/), type new input_path and output_path. Then use new config json files 
+	for step 3 prediction.
+	
+5 readImage.py
+
+    original image, prediction, prediction + original image overlay

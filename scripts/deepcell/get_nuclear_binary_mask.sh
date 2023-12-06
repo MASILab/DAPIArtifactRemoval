@@ -1,0 +1,1 @@
+/usr/bin/time sudo docker run --gpus '"device=0,1"' -v /local_storage:/data vanvalenlab/deepcell-applications:latest-gpu mesmer --nuclear-image xxx.tif --output-directory /data --output-name xxx.tif --compartment nuclear --image-mpp 0.324
